@@ -1,0 +1,4 @@
+Flask==3.0.3
+requests==2.32.0
+urllib3==2.2.3
+easygoogletranslate==0.0.4
